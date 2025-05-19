@@ -1,8 +1,11 @@
-# ShoppyGlobe 🛍️
+# ShoppyGlobe 
 
-An e-commerce application built with **React**, **Redux**, **Tailwind CSS**, and **React Router**.
+Welcome to **ShoppyGlobe**, a responsive and feature-rich e-commerce web application built using **React**, **Redux Toolkit**, **React Router**, and **Tailwind CSS**.
 
-## ✨ Features
+🔗 **Live Demo / Repository**: [ShoppyGlobe.com GitHub](https://github.com/JainAadeesh/ShoppyGlobe.com)
+
+
+##  Features
 
 - Product listing with search
 - Product details page
@@ -11,7 +14,7 @@ An e-commerce application built with **React**, **Redux**, **Tailwind CSS**, and
 - Responsive UI with Tailwind CSS
 - Code splitting via `React.lazy`
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - React
 - Redux Toolkit
@@ -19,8 +22,9 @@ An e-commerce application built with **React**, **Redux**, **Tailwind CSS**, and
 - React Router
 - DummyJSON API
 
-## 📦 Installation
+##  Installation
 
 ```bash
 npm install
 npm start
+
